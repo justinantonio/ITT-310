@@ -95,7 +95,7 @@ int main() //integer main
 		printf("\n");
 		puts(str);
 	}
-	
+
 	printf("correct answer is: %d\n", b);
 
 	if (a = true) {
@@ -109,7 +109,7 @@ int main() //integer main
 		printf("\n");
 		puts(str);
 	}
-	
+
 	printf("correct answer is: %d\n", b);
 
 	if (a = true) {
